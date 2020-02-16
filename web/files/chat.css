@@ -1,0 +1,33 @@
+.input {
+    width: 100%;
+}
+
+.inputWrapper {
+    height: 25px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    right: 10px;
+}
+
+.messageList {
+    background-color: lightyellow;
+    left: 10px;
+    right: 10px;
+    top: 10px;
+    bottom: 45px;
+    overflow: auto;
+    position: absolute;
+}
+
+.message {
+}
+
+.msgSpan {
+    color: black;
+    padding-left: 10px;
+}
+
+.idSpan {
+    color: blue;
+}
